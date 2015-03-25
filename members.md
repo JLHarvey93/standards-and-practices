@@ -140,6 +140,7 @@ Format:
 | Jake Choi | [wisupreme](https://github.com/wisupreme) | Have knowledge in Java. Eager to learn anything and want to contribute in open source.|
 | Jake Myers | [jmyers0022](https://github.com/jmyers0022) | Learning Ruby/Rails - Looking forward to contributing to open source projects |
 | Jalal Hobbs | [jalalhobbs](https://github.com/jalalhobbs) | Basic Python and C#, I'd like to contribute to open source projects to advance. |
+| James Harvey | [JLHarvey93](https://github.com/JLHarvey93) | Computer Science student. Experience working with python, java, c++, .NET platform, html, css and javascript/jquery. Interested in learning, contributing, and networking.
 | James Healey | [JamesHealey94](https://github.com/JamesHealey94) | Computer Science university student |
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
 | James Vaughan | [vaughanj10](https://github.com/vaughanj10) | 4th Year CS student, experience with C/C++, Java, Ruby on Rails, Python. Looking to contribute to the open source community. |
